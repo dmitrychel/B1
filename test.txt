@@ -4,7 +4,7 @@ change1 from main
 
 
 def function:
-	if input_1 and input_2:
+	if input_1 or input_3:
 		do_this
 	else:
 		do_that
