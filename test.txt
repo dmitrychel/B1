@@ -2,3 +2,9 @@ new changes from main
 change1 from chel
 change1 from main
 
+
+def function:
+	if input_1:
+		do_this
+	else:
+		do_that
