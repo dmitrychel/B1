@@ -5,6 +5,6 @@ change1 from main
 
 def function:
 	if input_1 or input_3:
-		do_this
+		do_this and this
 	else:
 		do_that
